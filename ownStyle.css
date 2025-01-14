@@ -1,0 +1,31 @@
+body {
+    background-color: #393E46;
+}
+
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: #4ECCA3;
+    font-size: 8rem;
+}
+
+.content {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+    margin-left: 20%
+}
+
+
+.footer {
+    text-align: center;
+    color: white;
+    font-family: 'Lobster', cursive;
+    margin-top: 20px;
+}
